@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2018"
+  },
+  "include": ["src"]
+}

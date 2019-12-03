@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "day1-part1": "ts-node day1/part1.ts",
+    "day1-part2": "ts-node day1/part2.ts",
+    "day2-part1": "ts-node day2/part1.ts",
+    "day2-part2": "ts-node day2/part2.ts"
+  },
+  "keywords": [],
+  "author": "Ajeo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.7",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  }
+}
